@@ -1,0 +1,22 @@
+nav{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+
+}
+.btns-sec a{
+    float: right;
+    display: block;
+    color: white;
+    text-align: right;
+    padding: 20px 20px;
+    text text-decoration: none;
+    
+}
+/* .footer{
+    background-color: black;
+    text-align: center;
+    text-emphasis-color: white;
+} */
